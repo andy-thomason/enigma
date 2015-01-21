@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="1700-1799">
+      <UniqueIdentifier>{060469c6-9160-455a-b1c6-984052824ed2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\engima\enigmas-1700-1799\1706.h">
+      <Filter>1700-1799</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
